@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: sans-serif;
+}
+.dark {
+  background: #222831;
+  color: #eeeeee;
+}
+.light {
+  background: #e3fdfd;
+  color: #222831;
+}
+.light > .title {
+  color: #71c9ce;
+}
+.home-perfil {
+  background: #222831;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+[data-aos="title-animation"] {
+  opacity: 0;
+  transform: scale(0);
+  &.aos-animate {
+    opacity: 1;
+
+    transform: scale(0.9);
+  }
+}
+
+.carousel .control-dots .dot.selected {
+  background: #00adb5;
+}
+.carousel .control-dots .dot {
+  background: #00adb5;
+  opacity: 0.8;
+}

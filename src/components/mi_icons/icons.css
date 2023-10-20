@@ -1,0 +1,72 @@
+.github:hover > path {
+  fill: #fff;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.github:hover {
+}
+.sun {
+  fill: #fff;
+}
+.sun:hover {
+  stroke: #ece143;
+  fill: #fff;
+  transition: all;
+  transition-duration: 0.5s;
+}
+
+.moon:hover > path {
+  fill: #0e73e6;
+  stroke: #fff;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.linkedin:hover {
+  fill: #2f74c0;
+}
+.linkedin:hover > path {
+  fill: #2f74c0;
+  transition: all;
+  transition-duration: 0.5s;
+}
+
+.insta:hover {
+  fill: #ec4899;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.insta:hover > stop {
+  fill: #ec4899;
+}
+.arrowDark:hover > path {
+  stroke: #00adb5;
+}
+.arrowLight:hover > path {
+  stroke: #00adb5;
+}
+
+#titulo {
+  background: transparent;
+  border: none;
+}
+
+.linkDark:hover > path {
+  stroke: #21f4ff;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.linkLight:hover > path {
+  stroke: #0e7dfc;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.leftDark:hover > path {
+  fill: #21f4ff;
+  transition: all;
+  transition-duration: 0.5s;
+}
+.leftLight:hover > path {
+  fill: #0e7dfc;
+  transition: all;
+  transition-duration: 0.5s;
+}

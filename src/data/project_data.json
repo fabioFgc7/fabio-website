@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "id": "asdfghcvAswa3c",
+      "title": "Mi Portafolio",
+      "description": "Mi Portafolio Web muestra mi experiencia como desarrollador web y diseñador de interfaces de usuario, destacando mi habilidad para crear sitios web atractivos y funcionales.",
+      "enlance": {
+        "linkPage": "https://fabiofgc7.github.io/fabio-website/",
+        "linkGitHub": "https://github.com/fabioFgc7/fabio-website"
+      },
+      "image": "./images/fabio-web-site.jpg",
+      "animatedAos": "zoom-in-left",
+      "tecnologiasUtilizadas": {
+        "lenguajes": [
+          "../icons/317755_badge_html_html5_achievement_award_icon.svg",
+          "../icons/11120662_fi_brands_typescript_icon.svg",
+          "../icons/317756_badge_css_css3_achievement_award_icon.svg"
+        ],
+        "herramientasYBibliotecas": [
+          "../icons/1174949_js_react js_logo_react_react native_icon.svg",
+          "../icons/9073628_tailwind_icon.svg"
+        ],
+        "otrasTecnologias": ["GitHub Pages"]
+      },
+      "caracteristicasDestacadas": [
+        "Diseño Responsivo",
+        "Sobre Mí",
+        "Mi habilidades",
+        "Galería de Proyectos",
+        "Formulario de contacto"
+      ],
+      "procesoDesarrollo": {
+        "planificacion": "Definí la estructura y el diseño del portafolio, así como los elementos que quería destacar.",
+        "diseno": "Creé un diseño limpio y atractivo que refleja mi estilo personal y enfatiza la usabilidad.",
+        "implementacion": "Utilicé React  para construir las páginas y Tailwind para la estilización. También me aseguré de que el sitio se cargara de manera eficiente.",
+        "pruebas": " Probé el sitio en varios navegadores y dispositivos para garantizar que funcionara correctamente."
+      },
+      "leccionesAprendidas": "Durante el desarrollo de mi portafolio web, aprendí la importancia de combinar el diseño con la funcionalidad para crear una experiencia atractiva para el usuario. También adquirí habilidades valiosas en la creación de sitios web responsivos y optimizados.",
+      "resultadosYLogros": "Ha servido como una herramienta efectiva para presentar mi trabajo a empleadores y clientes potenciales.",
+
+      "fechaFinalizacion": ""
+    },
+    {
+      "id": "aRtsvasdfghcvc",
+      "title": "Turismo espacial",
+      "description": "Un emocionante desafío de Frontend Mentor para crear un sitio web de turismo espacial interactivo y visualmente atractivo.",
+      "enlance": {
+        "linkPage": "https://fabiofgc7.github.io/space-tourism/",
+        "linkGitHub": "https://github.com/fabioFgc7/space-tourism"
+      },
+
+      "image": "./images/turismo_espacial.jpg",
+      "animatedAos": "zoom-in-left",
+      "tecnologiasUtilizadas": {
+        "lenguajes": [
+          "../icons/317755_badge_html_html5_achievement_award_icon.svg",
+          "../icons/282802_javascript_js_icon.svg",
+          "../icons/317756_badge_css_css3_achievement_award_icon.svg"
+        ],
+        "herramientasYBibliotecas": [
+          "../icons/1174949_js_react js_logo_react_react native_icon.svg",
+          "../icons/9073628_tailwind_icon.svg"
+        ],
+        "otrasTecnologias": ["GitHub Pages"]
+      },
+      "caracteristicasDestacadas": [
+        "Múltiples Páginas: Crea un sitio web de varias páginas con navegación entre secciones temáticas, como destinos, información sobre el espacio y opciones de reserva.",
+        "Diseño Atractivo: Diseña un sitio web visualmente atractivo que refleje la emoción y el asombro del turismo espacial. Utiliza imágenes y elementos gráficos impactantes para capturar la atención de los visitantes.",
+        "Interacción y Navegación Intuitiva: Implementa una navegación fluida y una experiencia de usuario intuitiva para que los visitantes puedan explorar fácilmente los diferentes destinos y opciones.",
+        "Información Detallada: Proporciona información detallada sobre cada destino espacial, incluyendo datos científicos, imágenes y descripciones emocionantes.",
+        "Reservas Simuladas: Incluye la funcionalidad de reserva simulada que permite a los visitantes personalizar su viaje espacial y obtener una idea de cómo sería realizar una reserva real."
+      ],
+      "procesoDesarrollo": {
+        "planificacion": "Recree la pagina con mis habilidades.",
+        "diseno": "Es un diseño creado por Frontend Mentor.",
+        "implementacion": "Utilicé React  para construir las páginas y Tailwind para la estilización. También me aseguré de que el sitio se cargara de manera eficiente.",
+        "pruebas": " Probé el sitio en varios navegadores y dispositivos para garantizar que funcionara correctamente."
+      },
+      "leccionesAprendidas": "Durante el desarrollo de mi portafolio web, aprendí la importancia de combinar el diseño con la funcionalidad para crear una experiencia atractiva para el usuario. También adquirí habilidades valiosas en la creación de sitios web responsivos y optimizados.",
+      "resultadosYLogros": "Me ha servido como una practicas para usar mis habildades.",
+
+      "fechaFinalizacion": ""
+    }
+  ]
+}
