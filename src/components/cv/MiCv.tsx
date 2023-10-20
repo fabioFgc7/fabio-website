@@ -1,5 +1,5 @@
 import { saveAs } from "file-saver";
-import cvFile from "/fabio-guillen-desarrollador-web.pdf";
+import cvFile from "/cv/fabio-guillen-desarrollador-web.pdf";
 import { useTheme } from "../context/DarkContext";
 export const MiCv = () => {
   const handleDownload = () => {
